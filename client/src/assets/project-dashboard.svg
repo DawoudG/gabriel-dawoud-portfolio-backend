@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <rect width="400" height="240" fill="#202331"/>
+  <rect x="20" y="20" width="360" height="200" rx="12" fill="#151720" stroke="#34364a"/>
+  <path d="M48 112 92 76l44 36v56H48z" fill="#25213f" stroke="#a78bfa" stroke-width="3"/>
+  <path d="M77 168v-34h30v34M60 113h64" fill="none" stroke="#a78bfa" stroke-width="3"/>
+  <path d="M183 176h156M183 143h130M183 110h105M183 77h78" stroke="#34364a" stroke-width="12" stroke-linecap="round"/>
+  <polyline points="190,169 226,145 263,153 300,108 337,83" stroke="#60a5fa" stroke-width="4" fill="none"/>
+  <circle cx="337" cy="83" r="6" fill="#60a5fa"/>
+  <text x="183" y="54" font-family="system-ui" font-size="14" fill="#b8bbc8">PRICE PREDICTION</text>
+</svg>

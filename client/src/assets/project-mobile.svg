@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <rect width="400" height="240" fill="#25213f"/>
+  <rect x="70" y="26" width="260" height="188" rx="14" fill="#151720" stroke="#34364a" stroke-width="2"/>
+  <rect x="92" y="48" width="216" height="36" rx="6" fill="#202331"/>
+  <text x="108" y="71" font-family="system-ui" font-size="15" fill="#f4f3fa">Appointments</text>
+  <rect x="92" y="100" width="54" height="86" rx="6" fill="#202331" stroke="#a78bfa" stroke-width="2"/>
+  <text x="119" y="126" text-anchor="middle" font-family="system-ui" font-size="12" fill="#a78bfa">MON</text>
+  <text x="119" y="157" text-anchor="middle" font-family="system-ui" font-size="24" fill="#f4f3fa">12</text>
+  <rect x="160" y="100" width="148" height="22" rx="5" fill="#202331"/>
+  <rect x="160" y="132" width="148" height="22" rx="5" fill="#202331"/>
+  <rect x="160" y="164" width="148" height="22" rx="5" fill="#202331"/>
+  <circle cx="176" cy="111" r="5" fill="#a78bfa"/>
+  <circle cx="176" cy="143" r="5" fill="#60a5fa"/>
+  <circle cx="176" cy="175" r="5" fill="#a78bfa"/>
+</svg>
